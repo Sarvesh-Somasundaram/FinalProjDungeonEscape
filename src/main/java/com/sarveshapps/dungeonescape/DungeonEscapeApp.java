@@ -26,15 +26,16 @@ import static com.sarveshapps.dungeonescape.DungeonType.*;
 import static com.sarveshapps.dungeonescape.components.LevelMaker.LevelGen;
 
 /**
+ *  This is the main class that controls the game application, scenes,
+ *  settings, components, and inputs and actions
  *
  *  @author Sarvesh Somasundaram
+ *  @version 1.0
  *
- *  Github Link to Project Repo:
+ *  Github Link to Project Repo: https://github.com/Sarvesh1234567/FinalProjDungeonEscape
  *  JavaFX Game Library: https://github.com/AlmasB/FXGL
  *  Textures, animations and backgrounds from https://opengameart.org/
  *
- *  This is the main class that controls the game application, scenes,
- *  settings, components, and inputs and actions
  */
 
 public class DungeonEscapeApp extends GameApplication {
