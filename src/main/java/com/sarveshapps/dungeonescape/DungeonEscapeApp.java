@@ -251,7 +251,7 @@ public class DungeonEscapeApp extends GameApplication {
     }
 
     public void onHitWall(Entity magic) {
-        magic.removeFromWorld();
+        magic.setVisible(false);
     }
 
     public void onEnemyKilled(Entity magic, Entity enemy) {
