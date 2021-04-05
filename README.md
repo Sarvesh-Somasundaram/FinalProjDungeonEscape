@@ -9,3 +9,7 @@ the App should run, if not, then I recommend using the Intllij Idea IDE to run d
 IDE you are using,
 
 Github Repo: https://github.com/Sarvesh1234567/FinalProjDungeonEscape
+
+JavaFX Game Library: https://github.com/AlmasB/FXGL
+
+Textures, animations and backgrounds: https://opengameart.org/
